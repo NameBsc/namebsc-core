@@ -1,0 +1,1 @@
+# namebsc-core
